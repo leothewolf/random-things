@@ -2,7 +2,7 @@
 A simple js script which allows you to notify your users using notification prompts!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leothewolf/notifications/main/notify.gif" />
+  <img src="https://raw.githubusercontent.com/leothewolf/random-things/main/css/notifications/notify.gif" />
 </p>
 
 
